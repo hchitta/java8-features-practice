@@ -13,4 +13,8 @@ public class Main {
     }
 
     //functional interface - one abstract method, multiple default and static methods
+    //lamda expression () -> {body}
+    //consumer - functional interface -  void accept(T t) - foreach
+    // predicate - functional interface - conditional check - boolean test(T t) - filter
+    // supplier example - functioanl interface - T get() - no input output is expected
 }
