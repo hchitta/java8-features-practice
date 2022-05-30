@@ -21,5 +21,12 @@ public class Main {
     //why stream - functional programming,code reduce,bulk operation
     //foreach - iteration
     //filter - conditional check
+    //map flatmap; flapmap = map + flattering
+    //map Stream<R> map(Stream<T> input) - data transformation; one to one mapping
+    //map [a,b,c,d] -> [A,B,C,D] - transforming data from one stream to another stream is map
+    //flatmap - one to many mapping - converting stream of streams into single stream is called flatmap
+    //flatmap [[1,2],[3,4],[5,6]] -> [1,2,3,4,5,6]
+    //Optional class - to avoid null pointer exceptions
+
 
 }
