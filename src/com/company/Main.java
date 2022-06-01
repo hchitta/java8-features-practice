@@ -27,6 +27,8 @@ public class Main {
     //flatmap - one to many mapping - converting stream of streams into single stream is called flatmap
     //flatmap [[1,2],[3,4],[5,6]] -> [1,2,3,4,5,6]
     //Optional class - to avoid null pointer exceptions
+    //map and reduce - transforming and aggregating data - combine elements of a stream and produces single value
+    //Stream [2,1,8,3] - sum of numbers - map and reduce
 
 
 }
